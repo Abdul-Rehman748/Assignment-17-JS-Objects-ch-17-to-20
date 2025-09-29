@@ -87,22 +87,29 @@ console.log("JS Connected");
 // };
 // if(flag===false){
 //     alert("We are sorry sir, " + userCake + " is not available in our bakery")
-// }  
-
+// }        
 
        // Q : 08
 
-// var nums =[24 , 53 , 78 , 91 , 12];
-// document.write("Array items: " + nums + "</br>");
-// nums.sort((a,b) =>b-a);
-// document.write("The largest number is " + nums[0]);       
+//  var nums =[24 , 53 , 78 , 91 , 12];
+//  var lNum = nums[0];
+//  for(var i =0; i <= nums.length; i++){
+//        if(nums[i] > lNum){
+//               lNum = nums[i];
+//        }
+//  }
+//  console.log("The largest num is " + lNum);
 
-       // Q : 09
-
-// var nums =[24 , 53 , 78 , 91 , 12];
-// document.write("Array items: " + nums + "</br>");
-// nums.sort((a,b) =>a-b);
-// document.write("The smallest number is " + nums[0]);  
+      // Q : 09
+      
+//  var nums =[24 , 53 , 78 , 91 , 12];
+//  var sNum = nums[0];
+//  for(var i =0; i <= nums.length; i++){
+//        if(nums[i] < sNum){
+//               sNum = nums[i];
+//        }
+//  }
+//  console.log("The smallest num is " + sNum);
 
       // Q : 10
 
